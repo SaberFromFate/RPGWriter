@@ -1,0 +1,11 @@
+{
+  "theme": "dark",
+  "model": "hf.co/mradermacher/SAINEMO-reMIX-GGUF:Q8_0",
+  "temperature": 0.8999999999999999,
+  "top_p": 0.9,
+  "max_tokens": 800,
+  "repeat_penalty": 1.1,
+  "chat_font_size": 17,
+  "input_font_size": 17,
+  "chat_font_family": "Arial"
+}
